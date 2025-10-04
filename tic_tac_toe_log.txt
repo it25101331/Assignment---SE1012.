@@ -1,43 +1,63 @@
+Player 1 (X) made a move
    |   |   
 ---+---+---
    |   |   
 ---+---+---
- X |   |   
+   |   | X 
 
-   | O |   
----+---+---
+Player 2 (O) made a move
    |   |   
 ---+---+---
- X |   |   
-
- Z | O |   
+   |   | O 
 ---+---+---
+   |   | X 
+
+Player 3 (Z) made a move
    |   |   
 ---+---+---
- X |   |   
-
- Z | O |   
+   |   | O 
 ---+---+---
+ Z |   | X 
+
+Player 1 (X) made a move
    |   |   
 ---+---+---
- X |   | X 
+ X |   | O 
+---+---+---
+ Z |   | X 
 
- Z | O | O 
+Player 2 (O) made a move
+ O |   |   
 ---+---+---
-   |   |   
+ X |   | O 
 ---+---+---
- X |   | X 
+ Z |   | X 
 
- Z | O | O 
+Player 3 (Z) made a move
+ O |   |   
 ---+---+---
- Z |   |   
+ X | Z | O 
 ---+---+---
- X |   | X 
+ Z |   | X 
 
- Z | O | O 
+Player 1 (X) made a move
+ O |   | X 
 ---+---+---
- Z |   |   
+ X | Z | O 
 ---+---+---
- X | X | X 
+ Z |   | X 
 
-Player X wins!
+Player 2 (O) made a move
+ O | O | X 
+---+---+---
+ X | Z | O 
+---+---+---
+ Z |   | X 
+
+Player 3 (Z) made a move
+ O | O | X 
+---+---+---
+ X | Z | O 
+---+---+---
+ Z | Z | X 
+
